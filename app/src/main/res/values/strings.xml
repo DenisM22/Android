@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="error">При загрузке данных произошла ошибка.
+        \nПожалуйста, проверьте наличие интернет-соединения.</string>
+
+    <string name="favorites">Добавляйте фильмы в избранное и они появятся на этом экране</string>
+
+    <string name="favorites2">Войдите в аккаунт, чтобы добавлять фильмы в избранное</string>
+
+</resources>
